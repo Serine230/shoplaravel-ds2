@@ -183,4 +183,4 @@ users ─────────────── products ──── catego
 ## Démonstration vidéo
 [Voir la vidéo de démonstration](https://drive.google.com/file/d/1JFgiB1K05p_2OChoY4kWAvesVoRBFjDn/view?usp=drive_link)
 
-*DS2 — Programmation Web 2 — ESSEC — Aziz Hamrouni et al.*
+*DS2 — Programmation Web 2 — ESSEC —*
